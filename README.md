@@ -2,6 +2,7 @@
 To analyze the link between patient treatment outcomes and healthcare costs, identifying how factors like diagnosis, admission type, and insurance provider influence recovery results and financial impact.
 
 Project Objective:
+
 This project aims to perform comprehensive data analysis using Python. 
 Conducting end-to-end exploratory data analysis (EDA), starting from data cleaning to deriving insights through visualizations and statistical summaries.
 
