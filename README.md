@@ -1,7 +1,7 @@
 # Medical Treatment Outcomes and Financial Analysis
 To analyze the link between patient treatment outcomes and healthcare costs, identifying how factors like diagnosis, admission type, and insurance provider influence recovery results and financial impact.
 
-Dataset link : https://www.kaggle.com/code/rv1922/health-care-analytics/output
+Dataset link : [https://www.kaggle.com/code/rv1922/health-care-analytics/output](https://www.kaggle.com/code/rv1922/health-care-analytics/input)
 
 Project Objective:
 
