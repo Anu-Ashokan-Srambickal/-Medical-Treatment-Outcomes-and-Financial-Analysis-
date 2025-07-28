@@ -20,5 +20,6 @@ This project will involve the following key components:
 Tool Used:
 1. Phython
 2. Pandas
-3. Seaborn
-4. Matplotlib
+3. Numpy
+5. Seaborn
+6. Matplotlib
