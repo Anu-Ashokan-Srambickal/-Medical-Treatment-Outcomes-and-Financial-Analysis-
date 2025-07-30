@@ -23,3 +23,5 @@ This project will involve the following key components:
 3. Numpy
 5. Seaborn
 6. Matplotlib
+7. Anaconda-Jupter Notebook
+8. csv file
